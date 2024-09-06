@@ -1,0 +1,3 @@
+azure-functions
+urllib3
+requests
